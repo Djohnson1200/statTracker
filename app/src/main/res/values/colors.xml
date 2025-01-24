@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="customInputOutline">#00B9F6</color>
+    <color name="mainBackgroundColor">#01101B</color>
+    <color name="inputBackgroundColor">#072840</color>
 </resources>
